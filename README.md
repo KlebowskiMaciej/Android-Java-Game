@@ -1,0 +1,2 @@
+# mnoznik
+GUT_P
