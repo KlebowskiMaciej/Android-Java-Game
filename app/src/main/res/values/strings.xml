@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mnożnik</string>
+    <string name="play">Rozpocznij Gre</string>
+    <string name="description">Skacz po poprawnych działaniach do następnych poziomów klikając w lewą i prawą stronę ekranu.</string>
+</resources>
